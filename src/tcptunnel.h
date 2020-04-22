@@ -14,6 +14,7 @@
 #define STAY_ALIVE_OPTION     'i'
 #define HELP_OPTION           'j'
 #define VERSION_OPTION        'k'
+#define TEST	't'
 
 #define PATH_SEPARATOR '/'
 
